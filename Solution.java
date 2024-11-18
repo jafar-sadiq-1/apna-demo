@@ -6,6 +6,6 @@ class Solution{
         int x=sc.nextInt();
 
         System.out.println("hellow world");
-        System.out.println();
+        System.out.println(x*2);
     }
 }
